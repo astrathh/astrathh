@@ -9,8 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Node.js<br>🎯 Goals: Like to code Java someday<br>🎲 Fun fact: I don't like Java</p>
+<p align="left">📚 I'm currently learning Node.js<br>🎯 Goals: Like to code Java someday<br>🎲 Fun fact: I don't like Java</p>
 
 ###
 
