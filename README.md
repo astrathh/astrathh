@@ -2,14 +2,15 @@
 
 ###
 
-<p align="left">My name is Victor Astrath, I'm 23 and I'm a FullStack Developer at Growth Agency from Brazil.</p>
+<p align="left">My name is Victor Astrath, I'm 23y and I have a Bachelor's degree in Computer Science at Instituto Federal de São Paulo (IFSP). At the moment, I'm a FullStack Developer at Growth Agency from Brazil.</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">📚 I'm currently learning Node.js<br>🎯 Goals: Like to code Java someday<br>🎲 Fun fact: I don't like Java</p>
+<p align="left">I possess knowledge of various important technologies and have a deep interest in Front-End development. I participated in several team projects in college, where I put into practice and refined my teamwork and cooperation skills. Among my learnings and experiences, I can highlight:<br> • Programming Languages: I am familiar with languages such as JavaScript, C and PHP.<br> • Web Development: I have knowledge of HTML and CSS and am currently learning frameworks like React and Node.js. <br> • Databases: I have basic experience with PostgreSQL and am eager to learn more about relational and NoSQL databases.<br> • Algorithms and Data Structures: I have a solid understanding of fundamental algorithms and data structures.<br> • Software Engineering: I have experience with software documentation and agile methodologies like Scrum.
+</p>
 
 ###
 
