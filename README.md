@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Victor Astrath, I'm 24y and I have a Bachelor's degree in Computer Science at Instituto Federal de São Paulo (IFSP). At the moment, I'm a FullStack Developer at Growth Agency from Brazil.</p>
+<p align="left">My name is Victor Astrath, I'm 24y and I have a Bachelor's degree in Computer Science at Instituto Federal de São Paulo (IFSP). At the moment, I'm a FrontEnd Developer at iLotto from Brazil.</p>
 
 ###
 
